@@ -174,7 +174,7 @@ function HeroSection() {
                         transition={{ delay: 0.3, duration: 1 }}
                     >
                         DIVINE 
-                        DISTRIBUTAIONS
+                        DISTRIBUTION
                     </motion.h2>
                     <motion.p 
                         className="text-lg mb-8"
