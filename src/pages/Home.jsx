@@ -132,6 +132,7 @@ import carcharge from '../assets/carcharge.jpg';
 import profile1 from '../assets/profile1.jpg';
 import profile2 from '../assets/profile2.jpeg';
 import profile3 from '../assets/profile3.avif';
+import profile4 from '../assets/profile4.png';
 
 // Hero Section Component
 function HeroSection() {
@@ -738,10 +739,10 @@ function TestimonialsSection() {
             srcImg: profile3
         },
         {
-            name: "Amplus Solar",
+            name: "Ciel & Terre",
             role: "Industrial Client",
-            testimonial: "At Adam EPC, a subsidiary of Amplus Solar, client satisfaction is at the heart of everything we do. Our partners trust us for delivering reliable, cost-effective, and innovative solar engineering solutions that drive real results. Hear from our clients how we've helped them transition to clean energy with confidence.",
-            srcImg: profile3
+            testimonial: "Collaborating with Ciel & Terre, a global leader in floating solar solutions, Adam EPC has successfully executed innovative and efficient floating solar projects. This partnership showcases our ability to adapt and deliver cutting-edge engineering tailored to diverse environments.",
+            srcImg: profile4
         }
     ];
 
